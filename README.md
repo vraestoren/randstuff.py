@@ -5,8 +5,9 @@ Web-API for [randstuff](https://randstuff.ru) website to generate random stuff
 
 ### Example
 ```py3
-import randstuff
-randstuff = randstuff.RandStuff()
+from randstuff import RandStuff
+
+randstuff = RandStuff()
 random_joke = randstuff.generate_random_joke()["joke"]["text"]
 print(random_joke)
 ```
