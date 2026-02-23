@@ -1,9 +1,9 @@
-import requests
+from requests import Session
 
 class RandStuff:
     def __init__(self) -> None:
         self.api = "https://randstuff.ru"
-        self.session = requests.Session()
+        self.session = Session()
         self.session.headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36",
             "X-Requested-With": "XMLHttpRequest"
