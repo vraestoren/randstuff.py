@@ -23,15 +23,15 @@ print(joke)
 
 ## Features
 
-- 😂 **Jokes** — random jokes on demand
-- 🔢 **Numbers** — random numbers with range, uniqueness, and list support
-- 🧠 **Wisdom & Facts** — random sayings and interesting facts
-- 🔑 **Passwords** — configurable random password generation
-- ❓ **Questions** — random questions with answer support
-- 🎭 **Nicknames** — random username/nickname generation
-- 🎰 **Tickets** — random lottery-style tickets
-- 🌍 **Cities** — random cities filtered by country
-- 🔮 **Ask** — magic 8-ball style yes/no answers
+-  **Jokes** — random jokes on demand
+-  **Numbers** — random numbers with range, uniqueness, and list support
+-  **Wisdom & Facts** — random sayings and interesting facts
+-  **Passwords** — configurable random password generation
+-  **Questions** — random questions with answer support
+-  **Nicknames** — random username/nickname generation
+-  **Tickets** — random lottery-style tickets
+-  **Cities** — random cities filtered by country
+-  **Ask** — magic 8-ball style yes/no answers
 
 ---
 
